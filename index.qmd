@@ -5,8 +5,8 @@ format:
   dashboard:
     orientation: columns
     theme: darkly
-    # nav-buttons: [github]
-    # github: https://github.com/mine-cetinkaya-rundel/ld-dashboard
+    nav-buttons: [github]
+    github: https://github.com/rizqrama/r_docker_vscode
 ---
 
 ```{r}
